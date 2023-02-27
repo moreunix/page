@@ -13,8 +13,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Error!</h1>
-
+        <div class="bg"></div>
+        <div class="d-flex align-items-center">
+            <div class="box w-100">
+                <h1>Error!</h1>
+                <h3>The page you are trying to access does not exist.</h3>
+            </div>
+        </div>
     </div>
 </body>
 </html>
