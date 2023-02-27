@@ -1,0 +1,40 @@
+body {
+    font-family:'Lucida Console', monospace;
+    background-color: black;
+} 
+
+h1, h3{
+    text-align: center;
+    color: green;
+}
+
+a {
+    text-align: center;
+    color: purple;
+}
+
+#home {
+    color: green;
+}
+
+.message{
+    max-width: 400px;
+    text-align: center;
+    margin: 60px auto;
+}
+
+.message:after{
+    content: '|';
+    margin-left: 5px;
+    opacity: 1;
+    animation: blink .7s infinite;
+}
+
+@keyframes blink{
+    0%, 100%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+}

@@ -1,0 +1,16 @@
+body {
+    font-family:'Lucida Console', monospace;
+    background-color: black;
+} 
+
+h1, h2, h3, h4, h5, h6{
+    color: green;
+}
+
+a {
+    color: purple;
+}
+
+.active {
+    color: yellow;
+}

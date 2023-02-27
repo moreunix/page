@@ -1,0 +1,14 @@
+body {
+    font-family:'Lucida Console', monospace;
+    background-color: black;
+} 
+
+h1, h3{
+    text-align: center;
+    color: green;
+}
+
+a {
+    text-align: center;
+    color: purple;
+}

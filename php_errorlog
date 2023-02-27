@@ -1,0 +1,8 @@
+[27-Feb-2023 00:43:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/moreunix.org/public_html/../vendor/autoload.php' (include_path='.:/usr/local/php81/pear') in /home/customer/www/moreunix.org/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/moreunix.org/public_html/index.php on line 34
+[27-Feb-2023 00:44:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/customer/www/moreunix.org/public_html/../vendor/autoload.php' (include_path='.:/usr/local/php81/pear') in /home/customer/www/moreunix.org/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/moreunix.org/public_html/index.php on line 34
