@@ -13,18 +13,12 @@
 </head>
 <body>
     <div class="container">
-        <nav class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand">
             <a class="navbar-brand" href="/" id="home">more unix</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                <a class="nav-item nav-link" href="/">Home</a>
-                <a class="nav-item nav-link active" href="/about">About <span class="sr-only">(current)</span></a>
-                </div>
-            </div>
+            <a class="nav-item nav-link" href="/">Home</a>
+            <a class="nav-item nav-link active" href="/about">About <span class="sr-only">(current)</span></a>
         </nav>
+
         <h1>who we are?</h1>
         <h3>We are an organization that seeks to develop and distribute <b>all</b> content related to technology, but especially content related to the Unix, Linux and free software world.</h3>
         <br/>
