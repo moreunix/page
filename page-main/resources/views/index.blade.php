@@ -21,6 +21,12 @@
 
         <h1 class="message">more freedom, more education, more humanity and more unix.</h1>
 
+        <br/>
+
+        <h2>Check this: <a href="/blog/lpi4noobs">lpi4noobs</a>!</h2>
+
+        <br/>
+
         <h3>Follow us clicking <a href="https://twitter.com/moreunix">here</a>.</h3>
     </div>
     <script>
